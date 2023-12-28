@@ -7,3 +7,16 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+
+.conntenedor{
+    width: 90%;
+    max-width: 1200px;
+    overflow: hidden;
+    margin: auto;
+    padding: 60px 0;
+}
+
+header{
+    height: 100vh;
+    background-image: linear-gradient(to right, rgba(215, 210, 204, 0.2) 0%, rgba(48, 67, 82, 0.2) 100%),url(../img/main.jpg);
+}
