@@ -6,4 +6,5 @@ Resources {
     Unsplash
     Google fonts
     https://www.freepik.es/
+    https://www.canva.com/
 }
